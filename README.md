@@ -33,7 +33,7 @@ Or, for development with auto-reload:
 npm run dev
 ```
 
-The server will typically run on [http://localhost:3000](http://localhost:3000) unless otherwise configured.
+The server will typically run on `[http://localhost:3000](http://localhost:3000)` unless otherwise configured.
 
 ## API Endpoints
 
