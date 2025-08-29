@@ -47,7 +47,7 @@ Below are the typical CRUD API endpoints you might find in this repository (adju
 | PUT    | /api/items/:id | Update an item       |
 | DELETE | /api/items/:id | Delete an item       |
 
-> Note: Replace `/api/items` with your actual resource name if it's different. (ex. students to access students table, courses if courses table)
+> Note: Replace `/api/items` with your actual resource name if it's different. (ex. `/students` to access `students` table, `/courses` if `courses` table)
 
 ## Contributing
 
